@@ -1,0 +1,1 @@
+Fastq.gz files inside ARTIC 3, ARTIC 4 and ARTIC 5 folders are just a randomized read subset of real wastewater NGS samples. Its purpose is **ONLY** for testing and are not representative of real sample output. 
