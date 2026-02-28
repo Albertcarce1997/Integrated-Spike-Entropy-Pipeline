@@ -1,8 +1,7 @@
 name: sars_spike_pipeline
 channels:
-  - bioconda
   - conda-forge
-  - defaults
+  - bioconda
 dependencies:
   - python=3.10.14
   - pandas=2.2.2
@@ -15,3 +14,4 @@ dependencies:
   - vsearch=2.28.1
   - mmseqs2=15.6f452
   - mafft=7.526
+
